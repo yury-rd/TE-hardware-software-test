@@ -1,0 +1,38 @@
+﻿grid,expense,cost,is_fixed,is_capex
+caiso,substation construction,18600000,fixed,capex
+caiso,substation regulatory,6000000,fixed,capex
+caiso,substation land,2400000,fixed,capex
+caiso,transformer,11800000,fixed,capex
+caiso,circuit switcher,2200000,fixed,capex
+caiso,breakers,1400000,fixed,capex
+caiso,indoor outlets,1100,fixed,capex
+caiso,ovehead new,160,fixed,capex
+caiso,ovehead reconductor,160,fixed,capex
+caiso,ovehead capacitor,33000,fixed,capex
+caiso,ovehead switch,30000,fixed,capex
+caiso,ovehead scada switch,45000,fixed,capex
+caiso,ovehead regulator,150000,fixed,capex
+caiso,ovehead recloser,80000,fixed,capex
+caiso,ovehead fuse,10000,fixed,capex
+caiso,ovehead scada,15000,fixed,capex
+caiso,reclocate capacitor,18000,fixed,capex
+caiso,underground new with trench,320,fixed,capex
+caiso,transformer replace,34000,fixed,capex
+caiso,autotransformer,850000,fixed,capex
+caiso,underground switch,80000,fixed,capex
+caiso,underground scada,130000,fixed,capex
+caiso,underground interrupter,120000,fixed,capex
+caiso,capacitor,65000,fixed,capex
+caiso,contingency,4406174,fixed,capex
+caiso,operations and maintenance,660926,fixed,opex
+caiso,insurance,660926,fixed,opex
+caiso,financial securities,20000,variable,security
+caiso,metering,60042.5,fixed,opex
+b20,distribution upgrade,20000,variable,capex
+b20,metering,21280,fixed,opex
+wdat,distribution upgrade,20000,variable,capex
+wdat,metering,60042.5,fixed,opex
+wdat,cost of ownership,5728,variable,opex
+wdat,infrastructure rent cost,2537956,fixed,opex
+wdat,financial securities,20000,variable,security
+wdat,security deposit,235672.35,fixed,security

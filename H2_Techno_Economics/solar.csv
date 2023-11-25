@@ -1,0 +1,14 @@
+﻿Component,Fixed,Variable,is_capex
+module,0,330000,capex
+inverter,0,27000,capex
+structural balance of system,0,144960,capex
+electrical balance of system,69000,75840,capex
+intallation labor,0,52416,installation
+installation rental equipement,0,59040,installation
+Construction Overhead,106000,51531.36,installation
+Permitting (PII),209466,12000,installation
+Developer Overhead,550000,11291.8104,installation
+contingency,93446.6,76407.91704,installation
+Developer Profit,200000,41183.86728,installation
+Operations and Maintenance,0,6500,opex
+Other opex (including insurance and upgrade),0,12500,opex

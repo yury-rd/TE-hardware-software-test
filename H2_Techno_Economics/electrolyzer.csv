@@ -1,0 +1,25 @@
+﻿,Variable,Per_KG,is_capex
+alkaline electrolyser,445000,0,capex
+balance of plan,334500,0,capex
+export panel,30000,0,capex
+control system,14500,0,capex
+hofer compressor,164000,0,capex
+capacity control bypass,3000,0,capex
+closed loop cooling,7500,0,capex
+shipping electrolyser,32500,0,installation
+shipping other,5000,0,installation
+capex contingency,102750,0,capex
+utiliies,44500,0,installation
+fire protection,5500,0,installation
+civil work,6750,0,installation
+mechanical scope,135000,0,installation
+site scoping,500,0,installation
+electrical works,90000,0,installation
+engineering permits indirect,47900,0,installation
+construction contingency,99045,0,installation
+decomissining,73631.79907,0,installation
+operations and maintenence,34947.5,0,opex
+compressor (operations and maintenance),10500,0,opex
+water,0,0.707957814,utilities
+water fees,0,0.010123797,utilities
+decomission,22500,0,installation
